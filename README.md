@@ -11,6 +11,10 @@ The supported operations are as follows
  - Rmove CG
 
 *Group sets and multi-site copying are not supported.
+---
+### download
+You can download the EXE file for Windows 10 (64bit) using pyinstaller from here.  
+After unzipping, run rp4vm_RestCmdRefTool_v0.XX.exe.
 
 ---
 ### development environment
