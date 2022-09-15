@@ -14,7 +14,8 @@ The supported operations are as follows
 
 ---
 ### download
-You can download the converted file to exe in pyinstaller for Windows 10 (64bit).
+
+You can download the converted file to exe in pyinstaller for Windows 10 (64bit).  
 After unzipping, run rp4vm_RestCmdRefTool_v0.XX.exe.  
 [rp4vm_RestCmdRefTool_v0.90.zip](https://github.com/ss95089/rp4vm_RestCmdRefTool/blob/main/dist/rp4vm_RestCmdRefTool_v0.90.zip)
 ---
