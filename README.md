@@ -12,6 +12,8 @@ The supported operations are as follows
 
 *Group sets and multi-site copying are not supported.
 
+
+[yahoo]: http://www.yahoo.co.jp
 ---
 ### download
 
