@@ -19,7 +19,7 @@ You can download the converted file to exe in pyinstaller for Windows 10 (64bit)
 After unzipping, run rp4vm_RestCmdRefTool_v0.XX.exe.  
 
 
-[rp4vm_RestCmdRefTool_v0.90.zip](dist/rp4vm_RestCmdRefTool_v0.90.zip)  
+[rp4vm_RestCmdRefTool_v0.90.zip](https://github.com/ss95089/rp4vm_RestCmdRefTool/raw/main/dist/rp4vm_RestCmdRefTool_v0.90.zip)  
 ---
 ### development environment
 RecoverPoint for Virtual Machines 5.3 SP2 P4  
