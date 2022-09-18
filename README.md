@@ -12,6 +12,9 @@ The supported operations are as follows
 
 *Group sets and multi-site copying are not supported.
 
+---
+### image
+![image](https://user-images.githubusercontent.com/67679613/190887144-7fd0f7a8-95d1-41de-94c6-4a5cfbe7324c.gif)
 
 ---
 ### download
@@ -25,11 +28,3 @@ After unzipping, run rp4vm_RestCmdRefTool_v0.XX.exe.
 RecoverPoint for Virtual Machines 5.3 SP2 P4  
 Python 3.8.9  
 
----
-### Screenshot
-![login](image/screen0.jpg)    
-![screen1](image/screen01.jpg)    
-![screen2](image/screen02.jpg)    
-![screen3](image/screen03.jpg)    
-![screen4](image/screen04.jpg)    
-![screen5](image/screen05.jpg)    
