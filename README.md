@@ -14,7 +14,7 @@ The supported operations are as follows
 
 ---
 ### image
-![image](https://user-images.githubusercontent.com/67679613/190887144-7fd0f7a8-95d1-41de-94c6-4a5cfbe7324c.gif)
+![image](https://user-images.githubusercontent.com/67679613/190887247-7c0b3eb6-abce-47fe-96a2-f424bd8dc97f.mp4)
 
 ---
 ### download
